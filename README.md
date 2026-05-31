@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/routjig09/leetcode/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/routjig09/leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/routjig09/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
