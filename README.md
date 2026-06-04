@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/routjig09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/routjig09/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/routjig09/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/routjig09/leetcode/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/routjig09/leetcode/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/routjig09/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
