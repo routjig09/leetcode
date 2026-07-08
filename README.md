@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/routjig09/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/routjig09/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/routjig09/leetcode/tree/master/0058-length-of-last-word) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/routjig09/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/routjig09/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/routjig09/leetcode/tree/master/0050-powx-n) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/routjig09/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/routjig09/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
