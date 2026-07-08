@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/routjig09/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/routjig09/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/routjig09/leetcode/tree/master/0058-length-of-last-word) |
+| [1768-merge-strings-alternately](https://github.com/routjig09/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/routjig09/leetcode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/routjig09/leetcode/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/routjig09/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
