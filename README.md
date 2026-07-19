@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/routjig09/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/routjig09/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/routjig09/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/routjig09/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2965-find-missing-and-repeated-values](https://github.com/routjig09/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
