@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/routjig09/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/routjig09/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/routjig09/leetcode/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/routjig09/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/routjig09/leetcode/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/routjig09/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/routjig09/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/routjig09/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/routjig09/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/routjig09/leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/routjig09/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/routjig09/leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/routjig09/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
