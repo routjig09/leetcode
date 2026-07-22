@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/routjig09/leetcode/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/routjig09/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/routjig09/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1796-second-largest-digit-in-a-string](https://github.com/routjig09/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/routjig09/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/routjig09/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/routjig09/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/routjig09/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/routjig09/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
