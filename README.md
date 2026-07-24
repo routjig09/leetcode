@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/routjig09/leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/routjig09/leetcode/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/routjig09/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/routjig09/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/routjig09/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/routjig09/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/routjig09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/routjig09/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/routjig09/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/routjig09/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/routjig09/leetcode/tree/master/0605-can-place-flowers) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/routjig09/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/routjig09/leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/routjig09/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/routjig09/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/routjig09/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/routjig09/leetcode/tree/master/0392-is-subsequence) |
