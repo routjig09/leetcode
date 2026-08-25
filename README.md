@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/routjig09/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/routjig09/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/routjig09/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/routjig09/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/routjig09/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/routjig09/leetcode/tree/master/0409-longest-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/routjig09/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/routjig09/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/routjig09/leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/routjig09/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/routjig09/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/routjig09/leetcode/tree/master/0409-longest-palindrome) |
 | [1796-second-largest-digit-in-a-string](https://github.com/routjig09/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/routjig09/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/routjig09/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/routjig09/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/routjig09/leetcode/tree/master/0075-sort-colors) |
+| [0389-find-the-difference](https://github.com/routjig09/leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/routjig09/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/routjig09/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
