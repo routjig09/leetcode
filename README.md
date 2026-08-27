@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/routjig09/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/routjig09/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/routjig09/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/routjig09/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/routjig09/leetcode/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/routjig09/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/routjig09/leetcode/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/routjig09/leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
